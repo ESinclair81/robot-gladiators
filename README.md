@@ -1,1 +1,3 @@
-# robot-gladiators
+# WELCOME TO THE BATTLEFIELD!
+
+#Robot Gladiators!
